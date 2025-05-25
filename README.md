@@ -9,7 +9,7 @@
   <p align="center">
     An exceptional graphical user interface (GUI) application designed to discover new movies or shows and provide comprehensive information for viewing purposes.
     <br />
-    <a href="#demo">View Demo</a>
+    <a href="#preview">Preview</a>
     ·
     <a href="https://github.com/Savant35/filmfinder-/issues">Report Bug</a>
     ·
@@ -63,6 +63,7 @@ $ cd Team-C-C
 $ pip install .
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## preview 
 <img width="1465" alt="Screenshot 2023-04-30 at 12 54 06 PM" src="https://user-images.githubusercontent.com/121364807/235366060-4e8c07d5-5ff8-46c6-a8c0-3456da3d7c78.png">
 <img width="1440" alt="Screenshot 2023-04-30 at 12 55 02 PM" src="https://user-images.githubusercontent.com/121364807/235366108-8aad2a5b-8a49-4e36-8475-ff68b45c3338.png">
