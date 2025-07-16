@@ -60,7 +60,8 @@ The GUI is an interactive interface that allows users to explore various movie a
 ```sh
 $ https://github.com/Savant35/filmfinder-
 $ cd Team-C-C
-$ pip install .
+$ pip install -r requirements.txt
+$ export TMDB_API_KEY="your tmdb api key"
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
